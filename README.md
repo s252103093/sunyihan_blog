@@ -1,3 +1,3 @@
 ###  sunyihan_blog
 
-t
+hexo blog
